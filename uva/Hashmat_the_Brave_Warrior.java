@@ -6,7 +6,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Hashmat
+public class Hashmat_the_Brave_Warrior
 {
   public void leerDatos() throws IOException
   {
@@ -31,7 +31,7 @@ public class Hashmat
 
   public static void main(String[] args) throws IOException
   {
-    Hashmat h = new Hashmat();
+    Hashmat_the_Brave_Warrior h = new Hashmat_the_Brave_Warrior();
     h.leerDatos();
   }
 }

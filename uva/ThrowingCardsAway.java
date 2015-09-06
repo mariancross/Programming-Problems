@@ -2,6 +2,9 @@
   * 10935 - Throwing cards away I
   * URL: https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1876
   */
+  
+import java.io.*;
+import java.util.*;
 
 public class ThrowingCardsAway {
   public static void main(String[] args) throws NumberFormatException, IOException {
