@@ -23,7 +23,7 @@ public class GreedyGiftGivers
 
       if(cadena == null) break;
 
-      if(it! = 0) System.out.println();
+      if(it != 0) System.out.println();
 
       nombres = buffer.readLine().split(" ");
       money = new int[nombres.length];
